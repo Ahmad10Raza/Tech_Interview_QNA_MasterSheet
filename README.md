@@ -5,12 +5,16 @@ Welcome to the Python Interview Questions and Answers repository! This repositor
 
 ## Table of Contents
 
-1. [General Questions](#general-questions)
-2. [Core Python](#core-python)
-3. [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
-4. [Python Libraries and Frameworks](#python-libraries-and-frameworks)
-5. [Web Development](#web-development)
-6. [Data Science and Machine Learning](#data-science-and-machine-learning)
+- [Python Interview Questions and Answers](#python-interview-questions-and-answers)
+  - [Table of Contents](#table-of-contents)
+  - [General Questions](#general-questions)
+  - [Core Python](#core-python)
+  - [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
+  - [Python Libraries and Frameworks](#python-libraries-and-frameworks)
+  - [Web Development](#web-development)
+  - [Data Science and Machine Learning](#data-science-and-machine-learning)
+  - [Contributing](#contributing)
+  - [Disclaimer](#disclaimer)
 
 ## General Questions
 
